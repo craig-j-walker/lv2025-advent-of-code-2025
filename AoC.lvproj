@@ -37,9 +37,7 @@
 		<Item Name="d23.lvlib" Type="Library" URL="../d23/d23.lvlib"/>
 		<Item Name="d24.lvlib" Type="Library" URL="../d24/d24.lvlib"/>
 		<Item Name="d25.lvlib" Type="Library" URL="../d25/d25.lvlib"/>
-		<Item Name="Package Dependencies" Type="IIO Ladder Diagram">
-			<Property Name="NI.SortType" Type="Int">0</Property>
-		</Item>
+		<Item Name="One Step Normalised (I64).vi" Type="VI" URL="../AOC/Solvers/One Step Normalised (I64).vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

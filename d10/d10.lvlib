@@ -7,10 +7,6 @@
 
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Find Direction.vi" Type="VI" URL="../Find Direction.vi"/>
-	<Item Name="Move from S.vi" Type="VI" URL="../Move from S.vi"/>
-	<Item Name="Move to next loop.vi" Type="VI" URL="../Move to next loop.vi"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
 	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
-	<Item Name="Visit.vi" Type="VI" URL="../Visit.vi"/>
 </Library>

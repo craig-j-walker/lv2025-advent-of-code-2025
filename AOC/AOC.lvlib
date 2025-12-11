@@ -7,6 +7,7 @@
 
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="chars" Type="Folder">
 		<Item Name="down arrow.vi" Type="VI" URL="../chars/down arrow.vi"/>
 		<Item Name="hash.vi" Type="VI" URL="../chars/hash.vi"/>
@@ -23,6 +24,12 @@
 		<Item Name="UDLR (ASCII Arrows).vi" Type="VI" URL="../UDLR (ASCII Arrows).vi"/>
 		<Item Name="UDLR (Vectors).vi" Type="VI" URL="../UDLR (Vectors).vi"/>
 		<Item Name="UP.vi" Type="VI" URL="../../d17/UP.vi"/>
+	</Item>
+	<Item Name="solvers" Type="Folder">
+		<Item Name="Solve Linear Equations (EXT).vi" Type="VI" URL="../Solvers/Solve Linear Equations (EXT).vi"/>
+		<Item Name="Solve Linear Equations (U64).vi" Type="VI" URL="../Solvers/Solve Linear Equations (U64).vi"/>
+		<Item Name="Linear Programming Middle (I64).vi" Type="VI" URL="../Solvers/Linear Programming Middle (I64).vi"/>
+		<Item Name="Linear Programming Preparation (I64).vi" Type="VI" URL="../Solvers/Linear Programming Preparation (I64).vi"/>
 	</Item>
 	<Item Name="Day Template.lvlib" Type="Library" URL="../Day Template/Day Template.lvlib"/>
 	<Item Name="Get Input.vi" Type="VI" URL="../Get Input.vi"/>
