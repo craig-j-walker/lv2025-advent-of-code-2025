@@ -11,7 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="AOC.lvlib" Type="Library" URL="../../lv2025-aoc/AOC/AOC.lvlib"/>
 		<Item Name="d1.lvlib" Type="Library" URL="../d1/d1.lvlib"/>
 		<Item Name="d2.lvlib" Type="Library" URL="../d2/d2.lvlib"/>
 		<Item Name="d3.lvlib" Type="Library" URL="../d3/d3.lvlib"/>
