@@ -31,6 +31,10 @@
 		<Item Name="Linear Programming Middle (I64).vi" Type="VI" URL="../Solvers/Linear Programming Middle (I64).vi"/>
 		<Item Name="Linear Programming Preparation (I64).vi" Type="VI" URL="../Solvers/Linear Programming Preparation (I64).vi"/>
 	</Item>
+	<Item Name="Graphs" Type="Folder">
+		<Item Name="Topological Sort.lvlib" Type="Library" URL="../Topological Sort/Topological Sort.lvlib"/>
+		<Item Name="Graph.lvlib" Type="Library" URL="../Graph/Graph.lvlib"/>
+	</Item>
 	<Item Name="Day Template.lvlib" Type="Library" URL="../Day Template/Day Template.lvlib"/>
 	<Item Name="Get Input.vi" Type="VI" URL="../Get Input.vi"/>
 	<Item Name="Input Path.vi" Type="VI" URL="../Input Path.vi"/>
