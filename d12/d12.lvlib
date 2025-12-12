@@ -7,7 +7,5 @@
 
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="count.vi" Type="VI" URL="../count.vi"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
-	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
 </Library>
